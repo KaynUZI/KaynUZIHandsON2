@@ -6,8 +6,8 @@
 <div align="center">
   <a href="https://github.com/KaynUZI/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="![Uploading image.png…]()
-" alt="Nyebe" width="130" height="100">
+    <img src="https://m.media-amazon.com/images/I/61obImBQJ3L._AC_UF894,1000_QL80_.jpg()
+" alt="Logo" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Hands on 2</h3>
