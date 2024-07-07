@@ -7,7 +7,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-size: cover;
-  background-image: url(/assets/img/Background\ picture\ 2.jpg);
+  background-image: url(./assets/img/Background\ picture\ 2.jpg);
   background-repeat: repeat;
   background-position: center;
   color: var(--color-primary-1);
@@ -59,7 +59,7 @@ body {
 }
 
 .hero {
-  flex: 1; 
+  flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
