@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/KaynUZI/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="<img src="<img src="./assets/img/Front page logo.png" alt="Logo" width="130" height="130">
+    <img src="./assets/img/Front page logo.png" alt="Logo" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Hands on 2</h3>
@@ -61,12 +61,14 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-  - Hands on 2 
+  - Five static cards, five dynamic cards, and five hero pages. It features an interesting and distinctive design theme.
 - Whats the purpose
-  - Create Hero card gallery
+  - This project aims to offer a vast and varied assortment of web design components that developers and designers can utilize as a guide or source of inspiration. By
+The project attempts to highlight numerous design options and methodologies by displaying five distinct hero designs, five alternative static card layouts, and five creative animated card designs. It acts as a useful manual for building both aesthetically pleasing and useful online interfaces, assisting users in developing their abilities, investigating novel concepts, and putting innovative ideas into practice for their own projects.
 - What are key components
-  - Hero card gallery and animations
+  - The website project consists of multiple pages with advanced hover effects. There are five different hero pages with different designs and styles. The website also offers five distinct static card layouts and five animated card designs, giving customers a wide range of dynamic and eye-catching options to peruse.
 - What technology used and how it is used
+  - The scripting languages HTML and CSS are used to create web pages and applications. While CSS is mostly utilized for web page styling, HTML provides the framework of a webpage.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -120,4 +122,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Google | Picture, Logos, images | Google.com |
+| Pinterest | Picture, Logos, images | pinterest.com |
+| Deployment link | Link | pinterest.com |
