@@ -100,13 +100,13 @@
     align-items: center;
     gap: 20px;
     padding: 10px;
-    background-color: #278cbb;
+    background-color: #f6f6fa;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 body {
     width: 100vw;
     height: 100vh;
-    background: url('../img/Background\ 2.jpg');
+    background-color: #4dc7ff;
     background-size: cover;
   }
